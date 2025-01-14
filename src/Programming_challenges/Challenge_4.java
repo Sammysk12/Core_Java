@@ -1,8 +1,8 @@
-package Programming_challenges.challenge_4;
+package Programming_challenges;
 
 import java.util.Scanner;
 
-public class ResultOf2Numbers {
+public class Challenge_4 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
